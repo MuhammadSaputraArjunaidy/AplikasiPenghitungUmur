@@ -1,7 +1,5 @@
 
-# Project Title
-
-Aplikasi Penghitungan Umur
+# Aplikasi Penghitungan Umur
 
 # Deskripsi
 Aplikasi ini menggunakan komponen JFrame untuk membangun antarmuka pengguna yang interaktif. Pengguna dapat memasukkan tanggal lahir mereka melalui dateChooser, dan aplikasi akan menampilkan usia dalam tahun, bulan, dan hari. Selain itu, aplikasi ini mengambil data dari API untuk menampilkan peristiwa sejarah yang terjadi pada tanggal ulang tahun pengguna.
