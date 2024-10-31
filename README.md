@@ -490,3 +490,6 @@ public class PenghitungUmurHelper {
 
 
 ## Screenshot
+![Screenshot 2024-10-31 153000](https://github.com/user-attachments/assets/6d7f07c9-df31-4675-8a92-af2c78e193c9)
+
+    
