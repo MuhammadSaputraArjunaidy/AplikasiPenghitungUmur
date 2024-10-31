@@ -1,10 +1,18 @@
 
 # Project Title
 
-    Aplikasi Penghitungan Umur
+Aplikasi Penghitungan Umur
 
 # Deskripsi
-    Aplikasi ini menggunakan komponen JFrame untuk membangun antarmuka pengguna yang interaktif. Pengguna dapat memasukkan tanggal lahir mereka melalui dateChooser, dan aplikasi akan menampilkan usia dalam tahun, bulan, dan hari. Selain itu, aplikasi ini mengambil data dari API untuk menampilkan peristiwa sejarah yang terjadi pada tanggal ulang tahun pengguna.
+Aplikasi ini menggunakan komponen JFrame untuk membangun antarmuka pengguna yang interaktif. Pengguna dapat memasukkan tanggal lahir mereka melalui dateChooser, dan aplikasi akan menampilkan usia dalam tahun, bulan, dan hari. Selain itu, aplikasi ini mengambil data dari API untuk menampilkan peristiwa sejarah yang terjadi pada tanggal ulang tahun pengguna.
+## Features
+
+Fitur utama aplikasi ini meliputi:
+- Penghitungan Usia: Menghitung dan menampilkan usia dalam format tahun, bulan, dan hari.
+- Tanggal Ulang Tahun Berikutnya: Menampilkan tanggal ulang tahun berikutnya serta hari dalam seminggu.
+- Peristiwa Sejarah: Mengambil dan menampilkan peristiwa-peristiwa penting yang terjadi pada tanggal yang sama di masa lalu.
+
+
 # Code Penghitungan Umur
 
 ## Penghitung Umur Frame
@@ -474,22 +482,10 @@ public class PenghitungUmurHelper {
 
 ## Authors
 
-    Muhammad Saputra Arjunaidy 
-    2210010300
-    5B Reg Pagi Banjarmasin
-
-    https://github.com/MuhammadSaputraArjunaidy
-
-
-## Features
-
-    Fitur utama aplikasi ini meliputi:
-    Penghitungan Usia: Menghitung dan menampilkan usia dalam format tahun, bulan, dan hari.
-    Tanggal Ulang Tahun Berikutnya: Menampilkan tanggal ulang tahun berikutnya serta hari dalam seminggu.
-    Peristiwa Sejarah: Mengambil dan menampilkan peristiwa-peristiwa penting yang terjadi pada tanggal yang sama di masa lalu.
+- MuhammadSaputraArjunaidy
+- 2210010300
+- 5B Reg Pagi Banjarmasin
+- [@MuhammadSaputraArjunaidy](https://www.github.com/MuhammadSaputraArjunaidy)
 
 
 ## Screenshot
-![Screenshot 2024-10-31 153000](https://github.com/user-attachments/assets/6d7f07c9-df31-4675-8a92-af2c78e193c9)
-
-    
