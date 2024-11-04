@@ -1,16 +1,9 @@
-
-<<<<<<< HEAD
-# Project Title
-
-Aplikasi Penghitungan Umur
-=======
 # Aplikasi Penghitungan Umur
->>>>>>> 347138ae6219378da4b6e1c3b08ca665a79bed9d
 
 # Deskripsi
 Aplikasi ini menggunakan komponen JFrame untuk membangun antarmuka pengguna yang interaktif. Pengguna dapat memasukkan tanggal lahir mereka melalui dateChooser, dan aplikasi akan menampilkan usia dalam tahun, bulan, dan hari. Selain itu, aplikasi ini mengambil data dari API untuk menampilkan peristiwa sejarah yang terjadi pada tanggal ulang tahun pengguna.
-## Features
 
+## Features
 Fitur utama aplikasi ini meliputi:
 - Penghitungan Usia: Menghitung dan menampilkan usia dalam format tahun, bulan, dan hari.
 - Tanggal Ulang Tahun Berikutnya: Menampilkan tanggal ulang tahun berikutnya serta hari dalam seminggu.
@@ -491,10 +484,6 @@ public class PenghitungUmurHelper {
 - 5B Reg Pagi Banjarmasin
 - [@MuhammadSaputraArjunaidy](https://www.github.com/MuhammadSaputraArjunaidy)
 
-
-<<<<<<< HEAD
-## Screenshot
-=======
 ## Screenshot
 ![Screenshot 2024-10-31 153000](https://github.com/user-attachments/assets/a00638f6-716d-4060-bb80-e8d1fa8d1461)
->>>>>>> 347138ae6219378da4b6e1c3b08ca665a79bed9d
+
